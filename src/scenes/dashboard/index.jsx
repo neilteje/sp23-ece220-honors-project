@@ -21,7 +21,7 @@ const Dashboard = () => {
     <Box m="20px">
       {/* HEADER */}
       <Box display="flex" justifyContent="space-between" alignItems="center">
-        <Header title="DASHBOARD" subtitle="Welcome to your dashboard" />
+        <Header title="DASHBOARD" subtitle="Welcome to Illinois Dining!" />
 
         <Box>
           <Button
@@ -55,12 +55,12 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="12,361"
-            subtitle="Emails Sent"
+            title="1057"
+            subtitle="Students @ Latitude"
             progress="0.75"
             increase="+14%"
             icon={
-              <EmailIcon
+              <PersonAddIcon
                 sx={{ color: colors.greenAccent[600], fontSize: "26px" }}
               />
             }
@@ -74,8 +74,8 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="431,225"
-            subtitle="Sales Obtained"
+            title="178"
+            subtitle="Average Swipes/Hr"
             progress="0.50"
             increase="+21%"
             icon={
@@ -93,8 +93,8 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="32,441"
-            subtitle="New Clients"
+            title="32"
+            subtitle="New Students (Tour!)"
             progress="0.30"
             increase="+5%"
             icon={
@@ -112,7 +112,7 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="1,325,134"
+            title="19,447"
             subtitle="Traffic Received"
             progress="0.80"
             increase="+43%"
@@ -143,14 +143,14 @@ const Dashboard = () => {
                 fontWeight="600"
                 color={colors.grey[100]}
               >
-                Revenue Generated
+                Total Number of Students Served (April 2023)
               </Typography>
               <Typography
                 variant="h3"
                 fontWeight="bold"
                 color={colors.greenAccent[500]}
               >
-                $59,342.32
+                27,556
               </Typography>
             </Box>
             <Box>

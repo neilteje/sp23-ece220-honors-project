@@ -107,10 +107,10 @@ const Sidebar = () => {
                   fontWeight="bold"
                   sx={{ m: "10px 0 0 0" }}
                 >
-                  Neil Teje
+                  Illinois Street Residence Hall
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
-                  Dining Hall Admin
+                  Dining Hall
                 </Typography>
               </Box>
             </Box>
