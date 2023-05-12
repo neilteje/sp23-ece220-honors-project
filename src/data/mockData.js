@@ -3,7 +3,7 @@ import { tokens } from "../theme";
 export const mockDataTeam = [
   {
     id: 1,
-    name: "Rohin Khanapure",
+    name: "Halal Herb Grilled Chicken Breast",
     email: "rohink37@gmail.com",
     age: 19,
     phone: "(447)902-1017",
@@ -11,7 +11,7 @@ export const mockDataTeam = [
   },
   {
     id: 2,
-    name: "Cersei Lannister",
+    name: "Udon Noodles",
     email: "cerseilannister@gmail.com",
     age: 42,
     phone: "(421)314-2288",
@@ -19,7 +19,7 @@ export const mockDataTeam = [
   },
   {
     id: 3,
-    name: "Jaime Lannister",
+    name: "Three Cheese Pizza",
     email: "jaimelannister@gmail.com",
     age: 45,
     phone: "(422)982-6739",
