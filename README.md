@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Illinois Dining Hall Visualizer (ECE 220 Honors Project)
+### Professor Yuting Chen, Section BL2, Spring 2023
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
